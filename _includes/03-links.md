@@ -1,2 +1,3 @@
 ## This is my Github profile
-https://github.com/AshiTharuka
+
+[Find me](https://github.com/AshiTharuka).
